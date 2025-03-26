@@ -4,7 +4,7 @@ project(Openssl_Provider_Skeleton C)
 set(CMAKE_C_STANDARD 11)
 
 # Path to Openssl
-set(OPENSSL_ROOT_DIR "C:/LegacyApp/OpenSSL-Win64")
+set(OPENSSL_ROOT_DIR "C:/.../OpenSSL-Win64")
 set(OPENSSL_INCLUDE_DIR "${OPENSSL_ROOT_DIR}/include")
 set(OPENSSL_LIB_DIR "${OPENSSL_ROOT_DIR}/lib/VC/x64/MD")
 
