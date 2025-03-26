@@ -1,0 +1,6 @@
+# ninja log v6
+2	342	7647039195428827	build.ninja	bc9aa65eb3cfc485
+3	223	7647036939091380	CMakeFiles/myProvider.dir/myProvider.c.obj	c0170daaf7c187b7
+235	426	7647036943149002	libmyProvider.dll	cbd2c044d57eeba4
+235	426	7647036943149002	libmyProvider.dll.a	cbd2c044d57eeba4
+3	345	7647039195428827	build.ninja	bc9aa65eb3cfc485

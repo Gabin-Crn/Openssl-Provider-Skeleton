@@ -1,0 +1,3 @@
+C:/Users/uig40448/Documents/Openssl-Provider-Skeleton/cmake-build-debug/CMakeFiles/myProvider.dir
+C:/Users/uig40448/Documents/Openssl-Provider-Skeleton/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/uig40448/Documents/Openssl-Provider-Skeleton/cmake-build-debug/CMakeFiles/rebuild_cache.dir
